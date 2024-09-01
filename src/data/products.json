@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1724944517737",
+    "title": "Product iphone",
+    "description": "Product Description",
+    "code": "Product Code",
+    "price": 400,
+    "status": true,
+    "stock": 5,
+    "category": "Category",
+    "thumbnails": [
+      "path/to/image1.jpg",
+      "path/to/image2.jpg"
+    ]
+  },
+  {
+    "id": "1724944535314",
+    "title": "Product samsung",
+    "description": "Product Description",
+    "code": "Product Code",
+    "price": 800,
+    "status": true,
+    "stock": 5,
+    "category": "Category",
+    "thumbnails": [
+      "path/to/image1.jpg",
+      "path/to/image2.jpg"
+    ]
+  },
+  {
+    "id": "1724944549692",
+    "title": "Product motorola",
+    "description": "Product Description",
+    "code": "Product Code",
+    "price": 200,
+    "status": true,
+    "stock": 5,
+    "category": "Category",
+    "thumbnails": [
+      "path/to/image1.jpg",
+      "path/to/image2.jpg"
+    ]
+  },
+  {
+    "id": "1724944565921",
+    "title": "Product xiaomi",
+    "description": "Product Description",
+    "code": "Product Code",
+    "price": 600,
+    "status": true,
+    "stock": 5,
+    "category": "Category",
+    "thumbnails": [
+      "path/to/image1.jpg",
+      "path/to/image2.jpg"
+    ]
+  },
+  {
+    "id": "1724946132819",
+    "title": "Updated Tablets",
+    "description": "Updated Description",
+    "code": "Product Code",
+    "price": 1660,
+    "status": true,
+    "stock": 90,
+    "category": "Category",
+    "thumbnails": [
+      "path/to/image1.jpg",
+      "path/to/image2.jpg"
+    ]
+  }
+]
